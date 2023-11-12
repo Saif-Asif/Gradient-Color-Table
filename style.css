@@ -1,109 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@600&display=swap");
+
 * {
-
-background-color: lightgray
-
+  font-family: "Edu TAS Beginner", cursive;
+  background-color: lightgray;
 }
 
-
-
-
-
-.SS, h1 {
-color:lightslategray ;
-background-color:white;
-
+.divs {
+  line-height: 250%;
 }
 
-
-.AA{
-color:white ;
-background-color: ;
+.SS,
+h1 {
+  color: lightslategray;
+  background-color: white;
 }
 
-
-.AS{
-
-    color:white ;
-    background-color: ;
+.AA {
+  color: white;
+  background-color: rgb(48, 131, 197);
 }
 
-.AD{
-
-    color:white ;
-    background-color: ;
-
+.AS {
+  color: white;
+  background-color: rgb(37, 146, 208);
 }
 
-.AF{
-
-
-    color:white ;
-    background-color: ;
+.AD {
+  color: white;
+  background-color: rgb(27, 157, 216);
 }
 
-.AG{
-    color:white ;
-    background-color: ;
-
-}
- 
-.AH
-{
-    color:white ;
-    background-color: ;
-
-
-}
-.AJ{
-    color:white ;
-    background-color: ;
-
+.AF {
+  color: white;
+  background-color: rgb(53, 168, 223);
 }
 
-.AK{
-
-    color:white ;
-    background-color: ;
+.AG {
+  color: white;
+  background-color: rgb(85, 182, 230);
 }
 
-.AL{
-
-    color:white ;
-    background-color: ;
+.AH {
+  color: white;
+  background-color: rgb(111, 192, 236);
+}
+.AJ {
+  color: white;
+  background-color: rgb(139, 201, 238);
 }
 
-.AZ{
-
-    color:white ;
-    background-color: ;
+.AK {
+  color: white;
+  background-color: rgb(27, 181, 132);
 }
 
-.AX{
-    color:white ;
-    background-color: ;
-
+.AL {
+  color: white;
+  background-color: rgb(245, 174, 206);
 }
 
-.AC{
-
-    color:white ;
-    background-color: ;
+.AZ {
+  color: white;
+  background-color: rgb(244, 157, 194);
 }
 
-.AV{
-    color:white ;
-    background-color: ;
-
+.AX {
+  color: white;
+  background-color: rgb(243, 142, 179);
 }
 
-.AB{
-
-    color:white ;
-background-color: ;
+.AC {
+  color: white;
+  background-color: rgb(241, 120, 165);
 }
 
-.AN{
+.AV {
+  color: white;
+  background-color: rgb(240, 105, 151);
+}
 
-    color:white ;
-background-color: ;
+.AB {
+  color: white;
+  background-color: rgb(240, 86, 138);
+}
+
+.AN {
+  color: white;
+  background-color: rgb(238, 49, 126);
 }
